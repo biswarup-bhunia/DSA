@@ -1,7 +1,7 @@
 package substringUnderCondition;
 
 import java.util.*;
-import java.io.*
+import java.io.*;
 
 //https://oj.masaischool.com/contest/3682/problem/2
 
